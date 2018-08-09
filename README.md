@@ -5,7 +5,7 @@ Name: Careen Naitore
 
 Instituition: Jomo Kenyatta University of agriculture and technology 
 
-i am at the OpenScienceKE to ... learn on what is openscience\
+i am at the OpenScienceKE to learn on what is openscience\
 
 The use of various software to assist me in my reasearch and get collaborators 
 who can assist me 
