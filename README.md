@@ -1,5 +1,12 @@
 # My First Fork
 Fork this repository and make changes to the README
+Name: Caleb Kibet 
+
+Instituition: Icipe 
+
+i am at the OpenScienceKE to ... learn on what is openscience\
+
+
 
 Name: Careen Naitore
 
